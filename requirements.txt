@@ -1,0 +1,12 @@
+streamlit
+ipykernel
+ipywidgets
+geopandas
+sentence-transformers
+scikit-learn
+joblib
+openpyxl
+pandas
+databricks-sql-connector
+azure-identity
+numpy
